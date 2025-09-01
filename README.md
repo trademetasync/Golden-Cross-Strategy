@@ -3,6 +3,10 @@
 This tutorial demonstrates how to build a **simple trading bot** using **MetaSync API** on RapidAPI.  
 The bot fetches live **tick data** from MetaTrader 5 (MT5), calculates **moving averages (MA)**, and generates trading signals based on the **Golden Cross** and **Death Cross** strategy.
 
+## 🎥 Video Tutorial  
+
+[![Watch the video](https://img.youtube.com/vi/h4QjncGgKPI/0.jpg)](https://www.youtube.com/watch?v=h4QjncGgKPI)  
+
 ---
 
 ## 🚀 What You'll Learn
